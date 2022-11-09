@@ -1,4 +1,5 @@
-<h1>👋 Hi, we are <a href="https://mtdtechnology.net" class="nav-link" style="color: rgb(245, 89, 61); font-size: 30px;">&lt;mtd&gt;</a></h1>
+
+![cover2](https://user-images.githubusercontent.com/9281785/200859347-1b06c977-42e5-478a-9c46-08420456a829.png)
 
 <p><em> 👀 We live business, design and technology. We breathe innovation and love the challenge.</br>👀 We are driven by the visions of our clients and the needs of today's - and tomorrow's users. </br>🌱 We are currently developing awesome digital experinces within Cluj-Napoca Romania.
 </em></p>
